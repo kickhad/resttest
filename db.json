@@ -1,6 +1,6 @@
 {
-
-  "article": 2,
+"weekbyitem": [
+  {"article": 2,
   "dc": 4, 
   "week": [
       {
@@ -28,5 +28,34 @@
       
       
     }
-  ]
-}
+  ]},  {"article": 11,
+  "dc": 4, 
+  "week": [
+      {
+      "Acmeoor" : 20,
+      "plndor" : 12,
+      "edi830": 31
+    },
+     {
+      "abc" : 10,
+      "Acme" : 8,
+      "edi":  0
+      
+      
+    }, {
+      "abc" : 8,
+      "Acme" : 20,
+      "edi": 0
+      
+      
+    },
+     {
+      "abc" : 12,
+      "Acme" : 9,
+      "edi": 7
+      
+      
+    }
+  ]}
+]
+  }
