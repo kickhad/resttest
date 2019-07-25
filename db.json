@@ -1,7 +1,10 @@
 {
-"weekbyitem": [
+  "results" : [
+    {"day0": "2019-06-03",
+      "weekbyitem": [
   {"article": 2,
   "dc": 4, 
+   "day0": "2019-06-03",
   "week": [
       {
       "Acmeoor" : 20,
@@ -59,3 +62,5 @@
   ]}
 ]
   }
+]
+}
